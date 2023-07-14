@@ -1,0 +1,21 @@
+.ahmad{
+    height: 600px;
+}
+.ameer{
+    margin-left: 250px;
+    margin-right: -400px;
+}
+.ul,abcd,.li,.wattsapp,.facebok,.insta,.man{
+    height: 40px;
+    float: left;
+    margin-top: 3px;
+    margin: 10px;
+}
+.abcd{
+    list-style-type: none;
+}
+.ali{
+    background-image: url(icon/cmput5);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

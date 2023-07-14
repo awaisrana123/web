@@ -1,0 +1,142 @@
+.lion {
+    margin-left: 450px;
+    margin-right: -350px;
+}
+
+
+
+.ahmad:hover {
+    color: rgb(252, 251, 251);
+}
+
+.bgpic {
+    background-image: url(icon/computer\ pic);
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    height: 400px;
+    color: antiquewhite;
+    text-align: center;
+    padding-top: 170px;
+    font-size: 63px;
+    font-weight: 600;
+}
+
+.ali {
+    background-image: url('icon/cmput5');
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    height: 250px;
+    width: 100%;
+    color: antiquewhite;
+    text-align: center;
+    padding-top: 6%;
+
+}
+
+.alihaider {
+    color: rgb(46, 238, 46);
+}
+
+.insta {
+    height: 50px;
+    margin: 45%;
+    border-radius: 15px;
+    border: 3px solid rgb(242, 242, 245);
+
+}
+
+.aysha {
+    height: 400px;
+    border-bottom: 6px solid rgb(111, 114, 252);
+    border-radius: 10px;
+    border-radius: 100px;
+    margin-left: 25px;
+    background-color: rgb(66, 139, 66);
+}
+
+.aysha:hover {
+    background-color: rgb(4, 4, 82);
+}
+
+.afsha {
+    height: 399px;
+    border-bottom: 6px solid rgb(111, 114, 252);
+    border-radius: 10px;
+    border-radius: 100px;
+    margin-left: 25px;
+    background-color: rgb(66, 139, 66);
+}
+
+.afsha:hover {
+    background-color: rgb(4, 4, 82);
+}
+
+.nimra {
+    border-bottom: 6px solid rgb(73, 173, 27);
+    border-radius: 100px;
+    margin-left: 23px;
+    height: 400px;
+    background-color: rgb(70, 83, 255);
+}
+
+.nimra:hover {
+    background-color: rgb(87, 204, 87);
+}
+
+
+
+
+
+
+
+
+
+.iqra {
+    margin-top: 2%;
+    text-align: center;
+    color: white;
+}
+
+.kgf {
+    margin-top: -14%;
+    background: #f8f5f5;
+}
+
+.ul .class.abcd,
+li,
+img .wattsapp,
+.facebook,
+.instagram,
+.man {
+    list-style-type: none;
+    float: left;
+    /* padding: 10px; */
+    margin-top: 3px;
+    margin: 10px;
+}
+
+.wattsapp {
+    height: 40px;
+}
+
+.facebok {
+    height: 40px;
+}
+
+.insta {
+    height: 40px;
+    margin-top: -1px;
+
+}
+
+.man {
+    height: 40px;
+    margin-left: 40px;
+    margin-top: -2px;
+}
+
+.funny {
+    padding-right: 100px;
+}
